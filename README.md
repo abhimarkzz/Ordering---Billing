@@ -13,15 +13,6 @@ A fully menu-driven Java application that allows customers to order from 100 cat
 - Classy bill formatting using Style module
 - Modular multi-class structure
 
-## Project Structure
-/src
-├── Menu.java # Stores all menu items & prices
-├── Cart.java # Stores ordered item quantities
-├── Billing.java # Calculates totals, GST, cashback, points
-├── Style.java # Handles UI formatting & layout
-└── CanteenSystem.java # Main menu-driven controller
-
-
 ## How It Works
 1. User enters customer name  
 2. Selects a category (Starters, Main Course, Snacks, Desserts)  
